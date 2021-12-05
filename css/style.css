@@ -1,0 +1,23 @@
+/* Fundo cabeçalho*/
+
+header {
+    background-color: #191211;
+}
+
+/* Alinhamento Logo */
+
+.alinhamento {
+    text-align: center;
+}
+
+/* fundo conteúdo principal */
+
+main {
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+/* fonte página */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
